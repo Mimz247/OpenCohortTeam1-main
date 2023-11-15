@@ -6,6 +6,7 @@
     "mongodb": "^6.2.0",
     "mongoose": "^8.0.0",
     "nodemon": "^3.0.1",
+    "react-date-picker": "^10.5.2",
     "react-icons": "^4.11.0"
   },
   "name": "opencohortteam1",
